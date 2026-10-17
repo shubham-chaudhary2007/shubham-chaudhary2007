@@ -7,6 +7,44 @@
 <img src="assets/learning-loop.svg" width="100%" alt="Learning loop: learn HTML, CSS, and Python; build projects; practice DSA"/>
 
 
+**BCA Student · Web Developer · Python Programmer**
+
+I'm a Second-Year BCA student passionate about web development, Python programming, and software development. I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills.
+
+## 🚀 What I Do
+
+**→ Web Development**<br>
+**→ Backend Development**<br>
+**→ Exploring AI & Machine Learning**
+**→ Python Programming**<br>
+**→ C & C++ Programming**<br>
+**→ Problem Solving**<br>
+
+## 💻 Development
+
+**→ Building responsive and interactive web applications**<br>
+**→ Creating practical Python projects**<br>
+**→ Developing my frontend development skills**<br>
+**→ Learning backend development and APIs**<br>
+**→ Using Git and GitHub to manage projects**<br>
+**→ Turning ideas into practical software projects**
+
+## 🧠 Programming & Problem Solving
+
+**→ Logical Thinking and Problem Solving**<br>
+**→ Learning Data Structures & Algorithms**<br>
+**→ Practicing Programming Problems**
+
+## 🔨 Currently
+
+**→ Learning Python step by step**<br>
+**→ Practicing Python coding problems**<br>
+**→ Building web development projects**<br>
+**→ Exploring Backend Development and AI/ML**<br>
+**→ Improving my GitHub profile and project portfolio**
+
+
+
 # 💻 Tech Stack:
 ### Languages
 
