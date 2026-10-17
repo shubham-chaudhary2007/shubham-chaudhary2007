@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Learning loop: learn, build, practice, repeat">
+  <style>
+    :root { --ink: #202020; --muted: #777777; --dim: #999999; --rule: #D0D0D0; --accent: #454545; --paper: #FFFFFF; }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .draw { stroke-dasharray: 900; stroke-dashoffset: 900; animation: draw 1.8s cubic-bezier(.6,0,.2,1) .3s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+    .p1 { animation-delay: .5s; } .p2 { animation-delay: 1.3s; } .p3 { animation-delay: 2.1s; }
+    @keyframes pulse { 0% { opacity: .7; transform: scale(.5); } 75%,100% { opacity: 0; transform: scale(2.7); } }
+    @media (prefers-color-scheme: dark) {
+      :root { --ink: #F0F0F0; --muted: #A0A0A0; --dim: #777777; --rule: #3A3A3A; --accent: #D0D0D0; --paper: #000000; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .draw, .rise, .pulse { animation: none; }
+      .draw { stroke-dashoffset: 0; } .rise { opacity: 1; } .pulse { opacity: 0; }
+    }
+  </style>
+  <line x1="48" y1="34" x2="952" y2="34" stroke="var(--rule)"/>
+  <text class="mono" x="48" y="23" fill="var(--muted)" font-size="10" letter-spacing="3">THE LEARNING LOOP</text>
+  <text class="mono" x="952" y="23" fill="var(--muted)" font-size="10" letter-spacing="3" text-anchor="end">IN PROGRESS</text>
+  <line x1="150" y1="105" x2="850" y2="105" stroke="var(--rule)" stroke-width="1"/>
+  <line class="draw" x1="150" y1="105" x2="850" y2="105" stroke="var(--accent)" stroke-width="1.5"/>
+  <g class="rise" style="animation-delay:.3s">
+    <circle cx="180" cy="105" r="5" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.5"/>
+    <circle class="pulse p1" cx="180" cy="105" r="7" stroke="var(--accent)"/>
+    <text class="mono" x="180" y="143" fill="var(--ink)" font-size="13" letter-spacing="2" text-anchor="middle">LEARN</text>
+    <text class="mono" x="180" y="164" fill="var(--muted)" font-size="9" text-anchor="middle">WEB DEV · PROGRAMMING · LOGICAL THINKING</text>
+  </g>
+  <g class="rise" style="animation-delay:.65s">
+    <circle cx="500" cy="105" r="5" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.5"/>
+    <circle class="pulse p2" cx="500" cy="105" r="7" stroke="var(--accent)"/>
+    <text class="mono" x="500" y="143" fill="var(--ink)" font-size="13" letter-spacing="2" text-anchor="middle">BUILD</text>
+    <text class="mono" x="500" y="164" fill="var(--muted)" font-size="10" text-anchor="middle">SMALL PYTHON PROJECTS</text>
+  </g>
+  <g class="rise" style="animation-delay:1s">
+    <circle cx="820" cy="105" r="5" fill="var(--paper)" stroke="var(--ink)" stroke-width="1.5"/>
+    <circle class="pulse p3" cx="820" cy="105" r="7" stroke="var(--accent)"/>
+    <text class="mono" x="820" y="143" fill="var(--ink)" font-size="13" letter-spacing="2" text-anchor="middle">PRACTICE</text>
+    <text class="mono" x="820" y="164" fill="var(--muted)" font-size="10" text-anchor="middle">DSA WITH PYTHON</text>
+  </g>
+  <text class="mono" x="500" y="202" fill="var(--dim)" font-size="9" letter-spacing="2" text-anchor="middle">REPEAT / IMPROVE / KEEP GOING</text>
+</svg>
