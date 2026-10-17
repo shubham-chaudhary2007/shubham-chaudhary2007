@@ -7,7 +7,7 @@
 <img src="assets/learning-loop.svg" width="100%" alt="Learning loop: learn HTML, CSS, and Python; build projects; practice DSA"/>
 
 
-**BCA Student · Web Developer · Python Programmer**
+**· Web Developer · Python Programmer**
 
 I'm a Second-Year BCA student passionate about web development, Python programming, and software development. I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills.
 
@@ -43,6 +43,10 @@ I'm a Second-Year BCA student passionate about web development, Python programmi
 **→ Exploring Backend Development and AI/ML**<br>
 **→ Improving my GitHub profile and project portfolio**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-dark.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-light.svg" width="100%"/>
+
 
 
 # 💻 Tech Stack:
@@ -70,9 +74,7 @@ I'm a Second-Year BCA student passionate about web development, Python programmi
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-chaudhary2007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-dark.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-light.svg" width="100%"/>
+
 </picture>
 
 
