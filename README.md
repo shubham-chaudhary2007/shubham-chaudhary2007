@@ -32,5 +32,10 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubham-chaudhary2007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-dark.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shubham-chaudhary2007/shubham-chaudhary2007/output/snake-light.svg" width="100%"/>
+</picture>
+
 
 
