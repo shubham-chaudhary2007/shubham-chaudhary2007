@@ -9,7 +9,7 @@
 
 **· Web Developer · Python Programmer**
 
-I'm a Second-Year BCA student passionate about web development, Python programming, and software development. I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills.
+I'm a Second-Year BCA student passionate about web development, programming, and software development. I enjoy building practical projects, learning new technologies, and improving my programming and problem-solving skills.
 
 ## 🚀 What I Do
 
